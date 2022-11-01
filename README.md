@@ -4,15 +4,13 @@ kodluyoruz eğitimi kapsamında açtığım ilk repo
 . İçerisinde bir adet README dosyası, bir adet de index.html,bir resim barındırıyor.
 
 
-![  ] (file:///C:/Users/ahmet/Desktop/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.MHT )
+![  ] (C:\Users\Yenişehir  İletişim\Desktop\Ekran Alıntısı.MHT )
 
 ## Installation
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-```
-https://github.com/Neslihan110/kodluyoruzilkrepo.git
-```
+```https://github.com/MuraT110/kodluyoruz-lkDepo.git```
 
 ## Usage
 
@@ -31,7 +29,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 
-[MIT](https://github.com/Neslihan110/kodluyoruzilkrepo/blob/main/LICENSE)
+[MIT](https://github.com/MuraT110/kodluyoruz-lkDepo/blob/main/LICENSE)
 
 ## Kodluyoruz
 [Patika](https://www.patika.dev/tr
